@@ -220,7 +220,7 @@
     color: white;
     transition: background var(--transition);
     font-weight: 700;
-    font-size: 30px;
+    font-size: 17px;
   }
   
   .sparkle-button svg {
